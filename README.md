@@ -31,6 +31,37 @@
 Вузовская наука<br/>
 Как искать себе научного руководителя<br/>
 <td><a href="https://github.com/itsecd/academic-fundamentals/blob/main/lectures/lecture01-academic-work-structure.pdf">Презентация</a></td>
+<td><a href="https://youtu.be/tBHvD__szDU">Видео 1 (2023)</a> | <a href="https://youtu.be/ad5zWnXBLCM">Видео 2 (2023)</a></td>
+</tr>
+
+<tr>
+<td>2</td>
+<td>Содержание и этапы научного исследования<br/>
+Журналы и конференции<br/>
+Где искать литературу<br/>
+<td><a href="https://github.com/itsecd/academic-fundamentals/blob/main/lectures/lecture02-research-stages-and-literature.pdf">Презентация</a></td>
+<td><a href="https://youtu.be/gL98OpeDjEg">Видео 1 (2023)</a> | <a href="https://youtu.be/wUoiDHKT3Lk">Видео 2 (2023)</a></td>
+</tr>
+
+<tr>
+<td>3</td>
+<td>Актуальность, новизна и вклад. <br/>
+Защита диссертации<br/>
+Финансирование исследований<br/>
+<td>
+<a href="https://github.com/itsecd/academic-fundamentals/blob/main/lectures/lecture03-novelty-financing.pdf">Презентация</a><br/>
+<a href="https://github.com/itsecd/academic-fundamentals/blob/main/lectures/lecture03add1-vak-topics.pdf">Классификатор ВАК</a>
+</td>
+<td><a href="https://youtu.be/7kj57-AAHS8">Видео (2023)</a></td>
+</tr>
+
+<tr>
+<td>4</td>
+<td>Подготовка презентации.<br/>
+Выступление с научным докладом<br/>
+<td>
+<a href="https://github.com/itsecd/academic-fundamentals/blob/main/lectures/lecture04-presentation.pdf">Презентация</a><br/>
+</td>
 <td></td>
 </tr>
 
@@ -58,7 +89,18 @@
 <td><a href="https://youtu.be/A8JqEQ8TWOM">Видео</a>
 </td>
 </tr>
+
+<tr>
+<td>2</td>
+<td>Презентации Beamer</td>
+<td>
+</td>
+<td><a href="https://youtu.be/ckOV0kzwBdo">Видео</a>
+</td>
+</tr>
+
 </table>
+
 
 
 ## Лабораторные работы
@@ -126,8 +168,8 @@
 
 <tr>
 <td>3 базовая часть</td>
-<td>Занятие 4</td>
 <td>Занятие 5</td>
+<td>Занятие 6</td>
 </tr>
 
 <tr>
